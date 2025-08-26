@@ -15,7 +15,7 @@ db()
 
 
 const allowedOrigins = [
- "e-commerce-frontend-1-7tv7.onrender.com",
+ "https://e-commerce-frontend-1-7tv7.onrender.com",
 "http://localhost:5173",
 ];
 
