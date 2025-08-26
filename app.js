@@ -15,10 +15,8 @@ db()
 
 
 const allowedOrigins = [
- "https://e-commerce-frontend-1-7tv7.onrender.com",
- 
-  "http://localhost:5173",
-
+ "e-commerce-frontend-1-7tv7.onrender.com",
+"http://localhost:5173",
 ];
 
 app.use(cors({

@@ -19,6 +19,7 @@ const Product=require("../model/product")
 
   const get=async(req,res)=>{
 
+   console.log("hello");
    
     try {
         const product= await Product.find()
